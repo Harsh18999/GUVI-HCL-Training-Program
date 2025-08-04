@@ -48,3 +48,7 @@ cd inventory-management-system
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Deployment link - https://simpleinventorymanagementsystem.streamlit.app/
+
+
