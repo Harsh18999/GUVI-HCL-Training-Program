@@ -34,8 +34,6 @@ The Inventory Management System is a Streamlit-based web application designed to
 - Clear all inventory data
 - Persistent session state
 
-## 🛠️ Installation
-
 ### Prerequisites
 - Python 3.7+
 - Streamlit
