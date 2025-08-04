@@ -1,6 +1,6 @@
 # 📦 Inventory Management System
 
-![Dashboard Screenshot](./screenshot.png)  
+![Dashboard Screenshot](./dashboard.png)  
 *Example dashboard view*
 
 ## 🚀 Overview
